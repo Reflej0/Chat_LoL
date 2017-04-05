@@ -1,0 +1,10 @@
+C:\Users\Juanjo\documents\visual studio 2010\Projects\ChatLoL\ChatLoL\obj\x86\Debug\ChatLoL.csprojResolveAssemblyReference.cache
+C:\Users\Juanjo\documents\visual studio 2010\Projects\ChatLoL\ChatLoL\obj\x86\Debug\ChatLoL.Form1.resources
+C:\Users\Juanjo\documents\visual studio 2010\Projects\ChatLoL\ChatLoL\obj\x86\Debug\ChatLoL.Properties.Resources.resources
+C:\Users\Juanjo\documents\visual studio 2010\Projects\ChatLoL\ChatLoL\obj\x86\Debug\ChatLoL.csproj.GenerateResource.Cache
+C:\Users\Juanjo\documents\visual studio 2010\Projects\ChatLoL\ChatLoL\bin\Debug\ChatLoL.exe.config
+C:\Users\Juanjo\documents\visual studio 2010\Projects\ChatLoL\ChatLoL\bin\Debug\ChatLoL.exe
+C:\Users\Juanjo\documents\visual studio 2010\Projects\ChatLoL\ChatLoL\bin\Debug\ChatLoL.pdb
+C:\Users\Juanjo\documents\visual studio 2010\Projects\ChatLoL\ChatLoL\obj\x86\Debug\ChatLoL.exe
+C:\Users\Juanjo\documents\visual studio 2010\Projects\ChatLoL\ChatLoL\obj\x86\Debug\ChatLoL.pdb
+C:\Users\Juanjo\documents\visual studio 2010\Projects\ChatLoL\ChatLoL\bin\Debug\agsXMPP.pdb
